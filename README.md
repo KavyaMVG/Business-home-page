@@ -15,7 +15,7 @@ A landing page designed using pure HTML & CSS as part of ineuron assignment.
 
 ### Screenshot
 
-![Project live image](assets/Screenshot%202022-07-29%20at%2011.37.50%20PM.png)
+![Project live image](assets/businessLanding.png)
 
 ## Author
 
@@ -35,4 +35,4 @@ To fix a bug or enhance an existing module, follow these steps:
 
 ### Bug / Feature Request
 
-If you find a bug or to request a new feature, kindly open an issue [here](https://github.com/github-username/repo-name/issues/new).
+If you find a bug or to request a new feature, kindly open an issue [here](https://github.com/KavyaMVG/Business-home-page/issues/new).
